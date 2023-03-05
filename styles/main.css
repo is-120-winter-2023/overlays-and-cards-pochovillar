@@ -94,13 +94,13 @@ body,
 h1,
 h2,
 h3,
-.h4 {
+h4 {
   font-family: "Poppins", sans-serif;
   font-weight: 400;
   margin-bottom: 0.5em;
   margin-top: 1.5em;
 }
-.h1 {
+h1 {
   font-family: "Poppins", sans-serif;
   position: absolute;
   bottom: 0;
@@ -114,7 +114,7 @@ h3,
   text-shadow: 2px 2px 2px #000;
 }
 
-.h2 {
+h2 {
   font-size: 2.5rem;
 }
 
@@ -138,21 +138,21 @@ a[href]:hover {
   background-color: var(--color-secondary);
   color: #205373;
 }
-.button {
+button {
   background-color: #517ea6;
   transition: background-color 300ms ease;
   cursor: pointer;
 }
-.main {
+main {
   margin: 0 auto;
   padding: 0 1rem;
   max-width: 50rem;
 }
-.body {
+body {
   font-size: 1rem;
 }
 
-.img { 
+img { 
   width: 100%;
   display: block;
 }
