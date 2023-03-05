@@ -171,3 +171,18 @@ img {
 .hero h1 {
   font-size: clamp(3.5rem, 10vw + 1rem, 10rem);
 }
+
+.cards {
+  display: flex;
+  gap: 1rem;
+  margin: 0 1rem;
+}
+
+.card {
+  transition: color 300ms, text-decoration 300ms;
+}
+
+.card:hover {
+  text-decoration: underline;
+  color: blue;
+}
