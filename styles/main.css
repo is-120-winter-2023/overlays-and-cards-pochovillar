@@ -160,7 +160,6 @@ img {
 }
 
 .hero::before {
-  content: "foo";
   display: block;
   background-image: linear-gradient(to top, #000, transparent 50%);
   position: absolute;
