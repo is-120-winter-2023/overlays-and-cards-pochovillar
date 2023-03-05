@@ -133,11 +133,11 @@ a {
   text-decoration: none;
 }
 
-a[href]:hover {
+.button:hover {
   background-color: var(--color-secondary);
   color: #205373;
 }
-button {
+.button {
   background-color: #517ea6;
   transition: background-color 300ms ease;
   cursor: pointer;
