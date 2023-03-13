@@ -6,5 +6,6 @@
     "htmlproofer",
     "srcset",
     "viewports"
-  ]
+  ],
+  "liveServer.settings.port": 5501
 }
