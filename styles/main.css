@@ -218,3 +218,14 @@ img {
   color: #fff;
   cursor: pointer;
 }
+
+footer {
+   
+    background-color:  #98c1d9;
+}
+
+footer p {
+  color: whitesmoke;
+  margin: 0;
+  padding: 3rem 1rem 6rem;
+}
