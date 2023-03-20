@@ -138,7 +138,7 @@ a {
   text-decoration: none;
 }
 
-.button:hover {
+.button:hover a{
   background-color: var(--color-secondary);
   color: #205373;
 }
