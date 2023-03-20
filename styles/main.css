@@ -145,7 +145,7 @@ a {
   background-color: var(--color-secondary);
   color: #205373;
 }
-.button {
+.button{
 
   transition: background-color 300ms ease;
   cursor: pointer;
