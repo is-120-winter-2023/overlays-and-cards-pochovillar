@@ -116,7 +116,7 @@ h1 {
   width: 100%;
   padding-bottom: 2rem;
   margin: 0;
-  font-size: 5rem;
+  font-size: 3.5rem;
   letter-spacing: 4px;
   text-shadow: 2px 2px 2px #0006;
 }
@@ -256,10 +256,12 @@ footer {
 }
 
 .button:hover svg {
+  text-decoration: none;
   fill: #fff;
 }
 
 .button:hover {
+  text-decoration: none;
   box-shadow: var(--color-secondary) 0 0px 0px 70px inset;
   color: #fff;
 }
